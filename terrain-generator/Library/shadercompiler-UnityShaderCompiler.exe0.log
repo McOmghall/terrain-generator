@@ -1,0 +1,16 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=400 outsize=441 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at BlurComputeShader.compute(8): undeclared identifier 'N'
+  api=4 insize=1633 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at BlurComputeShader.compute(12): undeclared identifier 'gBlurRadius'
+  api=4 insize=1635 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at BlurComputeShader.compute(12): undeclared identifier 'gBlurRadius'
+  api=4 insize=1635 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at BlurComputeShader.compute(12): undeclared identifier 'gBlurRadius'
+  api=4 insize=1600 outsize=0 ok=0
